@@ -30,6 +30,10 @@ img{
     font-family: montserrat, sans-serif
 }
 
+h1{
+    align-items: center;
+}
+
 ul{
     display: flex;
     flex: 3;
