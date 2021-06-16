@@ -1,0 +1,23 @@
+.center-box{
+    display: flex;
+    align-items: center;
+    font-family: montserrat, sans-serif
+}
+
+.nav{
+    display: flex;
+    align-items: left;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color: #5a94f2;
+    text-decoration: none;
+    font-family: montserrat, sans-serif
+}
+
+ul{
+    display: flex;
+    flex: 3;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: montserrat, sans-serif
+}
